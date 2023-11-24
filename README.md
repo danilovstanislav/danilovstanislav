@@ -3,7 +3,9 @@ I'm a Middle Front-end Developer, currently working at [Marquiz](https://app.mar
 
 ## Contacts:
 [dstanislav.work@gmail.com](mailto:dstanislav.work@gmail.com)
+
 [Telegram](https://t.me/danilovstanislav)
+
 [Linkedin](https://www.linkedin.com/in/danilov-stanislav/)
 
 ## My tech stack
