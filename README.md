@@ -2,11 +2,11 @@
 I'm a Middle Front-end Developer, currently working at [Marquiz](https://app.marquiz.io).
 
 ## Contacts:
-[dstanislav.work@gmail.com](mailto:dstanislav.work@gmail.com)
+Mail: [dstanislav.work@gmail.com](mailto:dstanislav.work@gmail.com)
 
-[Telegram](https://t.me/danilovstanislav)
+Telegram: [@danilovstanislav](https://t.me/danilovstanislav)
 
-[Linkedin](https://www.linkedin.com/in/danilov-stanislav/)
+Linkedin: [danilov-stanislav](https://www.linkedin.com/in/danilov-stanislav/)
 
 ## My tech stack
 
