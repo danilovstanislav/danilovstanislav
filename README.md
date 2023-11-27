@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm a Middle Front-end Developer, currently working at [Marquiz](https://app.marquiz.io).
 
-## Contacts:
-Mail: [dstanislav.work@gmail.com](mailto:dstanislav.work@gmail.com)
+## My contacts:
+Email: [dstanislav.work@gmail.com](mailto:dstanislav.work@gmail.com)
 
 Telegram: [@danilovstanislav](https://t.me/danilovstanislav)
 
